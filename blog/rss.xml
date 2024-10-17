@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Float | Docs Blog</title>
+        <link>https://docs.float.capital/blog</link>
+        <description>Float | Docs Blog</description>
+        <lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We just integrated Gelato and RedStone for lightning fast price updates]]></title>
+            <link>https://docs.float.capital/blog/integrated-lightning-prices</link>
+            <guid>/integrated-lightning-prices</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The era of lightning fast DeFi is here.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Arctic Games are coming to Arbitrum]]></title>
+            <link>https://docs.float.capital/blog/arctic-games-arbitrum</link>
+            <guid>/arctic-games-arbitrum</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s time for something real special.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Arctic Games are back for round 2]]></title>
+            <link>https://docs.float.capital/blog/arctic-games-round-2</link>
+            <guid>/arctic-games-round-2</guid>
+            <pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Arctic Games are back for round 2]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Subgraph Uncrashable by Float]]></title>
+            <link>https://docs.float.capital/blog/subgragh-uncrashable</link>
+            <guid>/subgragh-uncrashable</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Subgraph Uncrashable by Float]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Float Integrates Chainlink Price Feeds to Help Power Leveraged Tokens & Chainlink VRF for On-Chain Randomness]]></title>
+            <link>https://docs.float.capital/blog/chainlink-powers-float-arctic-and-apmsc</link>
+            <guid>/chainlink-powers-float-arctic-and-apmsc</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[For the last six months Float has been actively building out a new release, Float Arctic. Launched in early December as a testnet version on Polygon Mumbai with a promise to offer more scalable, stable, and flexible markets, Float Arctic is the more powerful and scalable successor to the initial Alpha release. While both Float Alpha and Float Arctic are using Chainlink Price Feeds to power their leveraged tokens, one of the many improvements Arctic makes over Float Alpha is the introduction of fixed epoch price updates.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pledge yourself to the Arctic Games]]></title>
+            <link>https://docs.float.capital/blog/pledge-yourself-arctic-games</link>
+            <guid>/pledge-yourself-arctic-games</guid>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[The future of DeFi is here. Let the Arctic Games commence.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Arctic is coming. Alpha is going.]]></title>
+            <link>https://docs.float.capital/blog/arctic-is-coming-alpha-is-going</link>
+            <guid>/arctic-is-coming-alpha-is-going</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[On 6 December 2022 at 13:00 UTC we will deprecate the Float Alpha deployment.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the A.P. Morgan Sailing Club]]></title>
+            <link>https://docs.float.capital/blog/intro-ap-morgan-sailing-club</link>
+            <guid>/intro-ap-morgan-sailing-club</guid>
+            <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[The future of leverage is coming. It’s called Float Arctic. ❄️🚢]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Managing risk in the Float Alpha]]></title>
+            <link>https://docs.float.capital/blog/managing-risk-in-the-float-alpha</link>
+            <guid>/managing-risk-in-the-float-alpha</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Before we released the float alpha, we released this article which outlined the various risks associated with using the protocol. TL;DR we talked about “apeing in responsibly” in light of the risks inherent to DeFi: smart contract risk, composability risk, network risk, centralisation risk, oracle risk, stablecoin risk and financial risk.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why we shipped mandatory cooldown times for Float markets]]></title>
+            <link>https://docs.float.capital/blog/cooldown-times</link>
+            <guid>/cooldown-times</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We like to watch trading in Float really closely, to make sure we understand how users interact with the protocol, and how we can improve the protocol using these insights. A few months ago we noticed some accounts that were interacting heavily with our AVAX and JOE markets on Avalanche. We believed that the activity shown warranted further scrutiny.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Float Capital raises $5 mil. Time to ship.]]></title>
+            <link>https://docs.float.capital/blog/float-capital-raises-5-mil</link>
+            <guid>/float-capital-raises-5-mil</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are incredibly excited to announce that we have raised $5M in funding allowing us to continue the non-stop shipping of DeFi primitives.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Float Capital Integrates Chainlink Price Feeds to Help Secure Magic Internet Assets on Avalanche]]></title>
+            <link>https://docs.float.capital/blog/chainlink-price-feeds-avalanche</link>
+            <guid>/chainlink-price-feeds-avalanche</guid>
+            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Do you believe in magic?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Understanding volatility decay for Float users]]></title>
+            <link>https://docs.float.capital/blog/volatility-decay-intro</link>
+            <guid>/volatility-decay-intro</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this blog we will explore the concept of volatility decay on leveraged assets.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BRB, going multichain.]]></title>
+            <link>https://docs.float.capital/blog/deploying-to-avalanche</link>
+            <guid>/deploying-to-avalanche</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Avalanche" width="100%"/>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[We’re shipping a funding rate. Here’s why and how.]]></title>
+            <link>https://docs.float.capital/blog/shipping-a-funding-rate</link>
+            <guid>/shipping-a-funding-rate</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Float Capital has experienced explosive success with our OHM-USD market and our partnership with Olympus DAO. It has attracted so much capital that for a week during the last month we were the fastest growing derivatives protocol in all of DeFi.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Own our future with Reality Cards]]></title>
+            <link>https://docs.float.capital/blog/own-our-future-reality-cards</link>
+            <guid>/own-our-future-reality-cards</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reality Cards is allowing users to own the future of Float Capital.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Backtesting the Flipp3ning market: Visualizing market evolution]]></title>
+            <link>https://docs.float.capital/blog/flipp3ning-backetesting</link>
+            <guid>/flipp3ning-backetesting</guid>
+            <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Simulating a market under Float Capital mechanisms.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Float Capital Presents: A New Era of Magic Internet Assets]]></title>
+            <link>https://docs.float.capital/blog/new-era-magic-internet-assets</link>
+            <guid>/new-era-magic-internet-assets</guid>
+            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Float Capital Alpha is going LIVE on the Polygon network!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apeing in Responsibly: Managing risk in the Float Alpha]]></title>
+            <link>https://docs.float.capital/blog/apeing-in-responsibly</link>
+            <guid>/apeing-in-responsibly</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[“Apeing In Responsibly (AIR)” — the practice of depositing a large amount of liquidity in a protocol while understanding the risks. E.g. “Remember to AIR.”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Float Capital: The Future of On-Chain Assets Powered by Chainlink]]></title>
+            <link>https://docs.float.capital/blog/future-onchain-assets</link>
+            <guid>/future-onchain-assets</guid>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[First up, some massive news. The Float Capital Alpha goes LIVE on Polygon, this Friday, September 17, 2021.]]></description>
+        </item>
+    </channel>
+</rss>
